@@ -1,0 +1,5 @@
+Student Management System 
+
+101 - Rahul - AI & DS
+102 - rohan - Computer Scaience
+103 - Roshan - AI & DS
